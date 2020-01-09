@@ -1,0 +1,1 @@
+This is BlanketNinja's first git project!
